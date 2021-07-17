@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import TechListItem from '../TechListItem'
 
-const githubDir = `.`
+const githubDir = ``
 const imgSize = {
   height: '100%',
   width: '100%'
